@@ -3,5 +3,8 @@ Mini Project to learn how to install all the stacks I need.
 1. git init
 2. touch README
 3. git remote origin (connect with remote repo)
-4. git add README
-5. git push -u origin master
+4. git add .
+5. git commit -m "Message"
+6. git push -u origin master
+7. Testing framework:
+  - npm chai 

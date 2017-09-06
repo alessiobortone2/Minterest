@@ -6,5 +6,7 @@ Mini Project to learn how to install all the stacks I need.
 4. git add .
 5. git commit -m "Message"
 6. git push -u origin master
-7. Testing framework:
-  - npm chai 
+7. Testing framework(s):
+  - npm install chai
+  - npm install cucumber
+  - npm install selenium-webdriver
